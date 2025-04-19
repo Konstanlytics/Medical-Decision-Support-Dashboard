@@ -1,13 +1,6 @@
 # Medical-Decision-Support-Dashboard
 
-## Table of Content
--[📊 Project Overview](📊-project-overview)
 
--[🎯-Objectives](🎯-objectives)
-
-- [Tools & Technologies](#tools-&-technologies)
-
--
 
 ## 📊 Project Overview
 ---
