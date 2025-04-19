@@ -66,4 +66,6 @@ This project is a Power BI dashboard built to help healthcare providers understa
 
 - Find out how many patients are referred by departments and how often people come in without a referral.
 
+![Medical](https://github.com/Konstanlytics/Medical-Decision-Support-Dashboard/blob/main/Medical.JPG)
+
 
