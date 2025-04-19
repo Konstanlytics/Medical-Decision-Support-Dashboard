@@ -13,7 +13,7 @@
 - [🩺 Use Case](#🩺-use-case)
 
 ## 📊 Project Overview
---
+---
 
 This project is a Power BI dashboard built to help healthcare providers understand patient visits, satisfaction, and referrals. It brings key information together in one place to support better decision-making and improve patient care.
 
@@ -21,7 +21,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
 
 
 ### 🎯 Objectives
---
+---
 - Analyze total patient visits and trends over time.
 
 - Monitor patient satisfaction and average wait times.
@@ -34,7 +34,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
   
 
 #### 📈 Key Features
---
+---
 - Total Patient Visit Summary with trend over time.
 
 - Service Not Rated %, Avg. Satisfaction Score, and Avg. Wait Time.
@@ -48,7 +48,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
 - Satisfaction Heatmap by Race and Age Group.
 
 ### 🛠 Tools & Technologies
---
+---
 
 - Power BI for interactive visualizations
   
@@ -58,7 +58,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
 
 
 #### 🩺 Use Case
---
+---
 
 - Hospitals and clinics can use this dashboard to:
 
