@@ -44,7 +44,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
 
 - Satisfaction Heatmap by Race and Age Group.
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 ---
 
 - Power BI for interactive visualizations
