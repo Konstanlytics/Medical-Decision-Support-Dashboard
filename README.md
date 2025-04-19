@@ -3,12 +3,24 @@
 ![Medical Image](https://github.com/Konstanlytics/Medical-Decision-Support-Dashboard/blob/main/pexels-karolina-grabowska-4386466.jpg)
 
 ## Table of Contents
+---
+
+- [Project Overview](#-project-overview)
+
+- [Objectives](#-objectives)
+
+- [Key Features](#-key-feautures)
+
+- [Tools & Technologies](#-tools-&-technology)
+
+- [Dashboard Design & Features](#-dashboard-design-&-feautures)
+
 - [Use Case](#-use-case)
 
 
 
 
-## 📊 Project Overview
+## 📌 Project Overview
 ---
 
 This project is a Power BI dashboard built to help healthcare providers understand patient visits, satisfaction, and referrals. It brings key information together in one place to support better decision-making and improve patient care.
@@ -43,7 +55,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
 
 - Satisfaction Heatmap by Race and Age Group.
 
-### Tools & Technologies
+### 🛠 Tools & Technologies
 ---
 
 - Power BI for interactive visualizations
@@ -72,7 +84,9 @@ This project is a Power BI dashboard built to help healthcare providers understa
 
 - Find out how many patients are referred by departments and how often people come in without a referral.
 
-##### 🛠️ Dashboard Design & Features
+  
+
+##### 🎨 Dashboard Design & Features
 ---
 
 I built this dashboard using different types of charts like bar charts, line graphs, and pie charts to show the data clearly. I added filters (slicers) so users can click and explore the information easily. To keep everything looking neat, I used a matching color theme and made sure the layout is clean and organized. I also used conditional formatting to make important numbers stand out for example, to show when wait times are too high or satisfaction scores are low.
