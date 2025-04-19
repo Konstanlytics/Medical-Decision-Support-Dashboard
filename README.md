@@ -66,6 +66,11 @@ This project is a Power BI dashboard built to help healthcare providers understa
 
 - Find out how many patients are referred by departments and how often people come in without a referral.
 
+##### 🛠️ Dashboard Design & Features
+---
+
+I built this dashboard using different types of charts like bar charts, line graphs, and pie charts to show the data clearly. I added filters (slicers) so users can click and explore the information easily. To keep everything looking neat, I used a matching color theme and made sure the layout is clean and organized. I also used conditional formatting to make important numbers stand out for example, to show when wait times are too high or satisfaction scores are low.
+
 ![Medical](https://github.com/Konstanlytics/Medical-Decision-Support-Dashboard/blob/main/Medical.JPG)
 
 
