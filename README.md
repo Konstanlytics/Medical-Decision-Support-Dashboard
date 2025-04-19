@@ -53,7 +53,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
 - DAX for calculated metrics and KPIs
 
 
-#### 🩺 Use Case
+#### Use Case
 ---
 
 - Hospitals and clinics can use this dashboard to:
