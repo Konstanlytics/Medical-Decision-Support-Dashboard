@@ -1,5 +1,6 @@
 # Medical-Decision-Support-Dashboard
 
+![Medical Image](https://github.com/Konstanlytics/Medical-Decision-Support-Dashboard/blob/main/pexels-karolina-grabowska-4386466.jpg)
 
 
 ## 📊 Project Overview
