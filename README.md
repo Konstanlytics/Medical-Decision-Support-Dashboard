@@ -1,6 +1,18 @@
 # Medical-Decision-Support-Dashboard
 
-## 📊 Project Overview: Medical Decision Support Dashboard
+## Table of Content
+
+- [Project Overview](project-overview)
+
+- [Objectives](objectives)
+
+- [Key Features](Key-Features)
+
+-  [Tools & Technologies](tools-&-technologies)
+
+-  [Use Case](use-case)
+
+## 📊 Project Overview
 
 This project is a Power BI dashboard built to help healthcare providers understand patient visits, satisfaction, and referrals. It brings key information together in one place to support better decision-making and improve patient care.
 
