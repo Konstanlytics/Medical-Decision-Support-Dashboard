@@ -11,7 +11,7 @@
 
 - [Key Features](#-key-feautures)
 
-- [Tools & Technologies](#-tools-&-technology)
+- [Tools & Technologies](#-tools-&-technologies)
 
 - [Dashboard Design & Features](#-dashboard-design-&-feautures)
 
