@@ -5,7 +5,7 @@
 
 -[🎯-Objectives](🎯-objectives)
 
--[🛠-Tools-&-Technologies](#🛠-Tools-&-Technologies)
+- [🛠-Tools-&-Technologies](#🛠-Tools-&-Technologies)
 
 -
 
