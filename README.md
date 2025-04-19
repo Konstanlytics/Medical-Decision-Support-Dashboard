@@ -3,7 +3,7 @@
 ![Medical Image](https://github.com/Konstanlytics/Medical-Decision-Support-Dashboard/blob/main/pexels-karolina-grabowska-4386466.jpg)
 
 ## Table of Contents
-- [Use Case](#use-case)
+- [Use Case](#-use-case)
 
 
 
@@ -53,7 +53,7 @@ This project is a Power BI dashboard built to help healthcare providers understa
 - DAX for calculated metrics and KPIs
 
 
-#### Use Case
+#### 🩺 Use Case
 ---
 
 - Hospitals and clinics can use this dashboard to:
