@@ -2,15 +2,15 @@
 
 ## Table of Content
 
-- [Project Overview](project-overview)
+- [Project Overview](#project-overview)
 
-- [Objectives](objectives)
+- [Objectives](#objectives)
 
-- [Key Features](Key-Features)
+- [Key Features](#Key-Features)
 
--  [Tools & Technologies](tools-&-technologies)
+-  [Tools & Technologies](#tools-&-technologies)
 
--  [Use Case](use-case)
+-  [Use Case](#use-case)
 
 ## 📊 Project Overview
 
